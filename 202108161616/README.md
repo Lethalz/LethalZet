@@ -39,3 +39,8 @@ Restart a docker
 `docker attach <name>`
 
 **if you want to exit but pause press** *ctrl-pq*
+
+
+Stop one or more running containers
+`docker stop <name>`
+
