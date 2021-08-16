@@ -1,24 +1,34 @@
 # Markdown Basic Syntax
 
 Heading	 \# H1
-         \## H2
-         \### H3
+
+\## H2
+
+\### H3
          
          
-Bold	    \*\*bold text**
-Italic	  \*italicized text*
-Blockquote	\> blockquote
+*  Bold	    \*\*bold text**
+*  Italic	  \*italicized text*
+*  Bold and Italic \**\*boldanditalics\***
+*  Blockquote	\> blockquote
 
-line in blockquot  \> blockquote
-                   \>
-                   \> New quote line
+line in blockquote  \> blockquote
 
-Ordered List	1. First item
-              2. Second item
-              3. Third item
+\>
+                   
+\> New quote line
+
+Ordered List  
+1. First item
               
-Unordered List	- First item
-                - Second item
+2. Second item
+              
+3. Third item
+              
+Unordered List	
+
+- First item
+                -  Second item
                 - Third item
                 
                 
