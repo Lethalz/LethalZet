@@ -23,6 +23,7 @@ Code	           \`code`\
 Horizontal Rule	   ---
 
 Link	  \[title](https://www.example.com)
+Raw Link  Here is URL to \<https://rwx.gg/md> that will appear in full.
 
 Image	\!\[alt text](image.jpg)
               
