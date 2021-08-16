@@ -28,8 +28,10 @@ Ordered List
 Unordered List	
 
 - First item
-                -  Second item
-                - Third item
+                
+-  Second item
+               
+-  Third item
                 
                 
  Bullet list      * some
@@ -37,10 +39,10 @@ Unordered List
                   * here 
                   
                   
-  BLOCKS                   ```
+  BLOCKS                   \`\`\`
                             Roses are red
                             Violets are violet
-                            ```
+                            \`\`\`
                 
 Code	           \`code`\
 \\Escaping          \
@@ -53,17 +55,22 @@ Raw Link  Here is URL to \<https://rwx.gg/md> that will appear in full.
 Image	\!\[alt text](image.jpg)
 
 
-Indicates how code should be run   ```js
+Indicates how code should be run   
+
+\`\`\`js
                                     console.log('hello world')
-                                   ```
-  supported language tags
-md	Markdown
-json	JSON
-js	JavaScript
-html	HTML
-css	CSS
-sh	Shell or Bash
-go	Go (golang)
+                                  \`\`\`
+ | supported| language tags|
+ |----------|----------------|
+|md	|Markdown|
+|json	|JSON|
+|js	|JavaScript|
+|html	|HTML|
+|css	|CSS|
+|sh	|Shell or Bash|
+|go	|Go (golang)|
+
+Also this is how you do a table lmao
 
 [Extended Markdown](https://github.com/Lethalz/LethalZet/tree/main/202108152304)
               
