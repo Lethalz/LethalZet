@@ -55,7 +55,7 @@ css	CSS
 sh	Shell or Bash
 go	Go (golang)
 
-[Extended Markdown](https://github.com/Lethalz/LethalZet/tree/main/202108152304LethalZet/202108152304/README.md)
+[Extended Markdown](https://github.com/Lethalz/LethalZet/tree/main/202108152304)
               
               
   
