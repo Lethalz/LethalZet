@@ -18,13 +18,12 @@ Unordered List	- First item
                 - Third item
                 
 Code	           \`code`\
-
-Escaping          \
+\Escaping          \
 
 Horizontal Rule	   ---
 
-Link	  [title](https://www.example.com)
+Link	  \[title](https://www.example.com)
 
-Image	![alt text](image.jpg)
+Image	\![alt text](image.jpg)
               
               
