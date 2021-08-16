@@ -5,7 +5,7 @@ Heading	 \# H1
          \### H3
          
          
-Bold	    \**bold text**
+Bold	    \*\*bold text**
 Italic	  \*italicized text*
 Blockquote	\> blockquote
 
