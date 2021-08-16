@@ -18,7 +18,7 @@ Unordered List	- First item
                 - Third item
                 
 Code	           \`code`\
-\Escaping          \
+\\Escaping          \
 
 Horizontal Rule	   ---
 
