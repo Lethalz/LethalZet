@@ -18,7 +18,7 @@ shows docker processes
 
 `--rm` removes container when you are finished using it instead of pausing
 
-##Attach 
+## Attach 
 
 To get back to a paused container use the attach command 
 
@@ -43,4 +43,8 @@ Restart a docker
 
 Stop one or more running containers
 `docker stop <name>`
+
+SEARCH ALL DOCKER REPOSITORIES
+
+`docker search <name>`
 
