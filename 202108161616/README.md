@@ -4,7 +4,7 @@
 
 **running an image `docker run -it -rm rwxrob/workspace`**
 
-*Is a pull and a start at the same time*
+* `run` Is a pull and a start at the same time*
 
 To see all the images in your docker 
 
