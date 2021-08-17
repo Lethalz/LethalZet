@@ -25,8 +25,12 @@ Definition List   	term
 Strikethrough	\~~The world is flat.~~
 
 
-Task List	    - [x] Write the press release
+Task List      - [x] Write the press release
               - [ ] Update the website
               - [ ] Contact the media
+              
+              
+              
+Once you get the hang of this move on to [Pandoc Markdown](https://github.com/Lethalz/LethalZet/tree/main/202108162145)
               
               
