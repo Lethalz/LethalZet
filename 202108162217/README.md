@@ -25,6 +25,16 @@ So if you subnet to /25 your taking away another bit from the total 32 bits in a
 
 So you have seven bits for hosts minus 2 for the Network id(lowest possible IP in subnet) abd the Broadcast ID (Highest possible IP in subnet)
 
+2^7 = 128 - 2 (the net ID and Brodcast ID) = 126 possible hosts
+
+Subnetting uses the LOGIC GATE *AND*
+
+ if the two bits are 1 the output will be 1, in any other case the output will be 0.
+ 
+ 
+
+
+
 ## Converting Decimal to binary
 
 |Value | 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1|
@@ -65,6 +75,39 @@ Then just use the value to add up to your decimal solution
 `128+32+16+4+1` = 181 
 
 So we know the decimal notation of this binary number is 181
+
+
+# Subnetting Example
+
+Lets take the IP 192.168.0.100 and subnet mask is 255.255.255.224
+
+|IP Address	|11000000.10101000.00000000.01100100|
+|-----------|------------------------------------|
+|Subnet mask	|11111111.11111111.11111111.11100000|
+
+Run The LOGIC GATE *AND* with the IP adress and the subnet mask
+
+|IP Address|	11000000.10101000.00000000.01100100|
+|-----------|-------------------------------------|
+|Subnet mask	|11111111.11111111.11111111.11100000|
+|Network Address	|11000000.10101000.00000000.01100000|
+
+Since the the first 3 Octets are all 1's We can Assume the first 3 octets are part of the Network ID
+
+So we only have to solve for the last octet with is 01100000 = 96
+
+The Network ID is 192.168.0.96 
+
+This is a /27 network which means there are 2^3= 8 Networks made and 2^5 = 32 available IPs but only 30 **assignable** IPs
+
+Take the last octet and add the amount of remaining available IPs which does not include the Network ID cause we're already using it `32-1`
+
+96 + 31 (minus the Network ID) = 127
+
+The Broadcast Adress is 192.168.0.127
+
+
+
 
 
 
