@@ -40,6 +40,8 @@ Restart a docker
 
 **if you want to exit but pause press** *ctrl-pq*
 
+see [Persistant Containers](https://github.com/Lethalz/LethalZet/tree/main/202108161940)
+
 
 Stop one or more running containers
 `docker stop <name>`
