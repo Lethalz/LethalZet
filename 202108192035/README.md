@@ -30,6 +30,7 @@
 ## Priority
 
 `nice` Starts a Process with a given Priority
+
 `renice` Changes priority of an already running process
 
 
