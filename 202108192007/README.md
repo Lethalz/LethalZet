@@ -10,6 +10,6 @@
 
 `clear` Clears the Terminal
 
-`aot-get` How you install and update packages
+`apt-get` How you install and update packages
 
 `echo $Variable` Tells the contents of a Variable
