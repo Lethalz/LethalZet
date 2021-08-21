@@ -33,6 +33,25 @@
 
 `renice` Changes priority of an already running process
 
+## Foreground and Background
+
+`jobs` lists the currently running background jobs for you
+
+`Sleep` delays for a specific amount of time
+
+`USER@bash: sleep 5 &`
+
+The ampersand tells that process to run in the background. Also gives us a job number
+
+We can move jobs between the foreground and background.
+
+`ctrl+z` moves the currently running program into the background
+
+`fg <job number>`  does the opposite and brings background processes to the foreground.
+
+
+
+
 
 
 
