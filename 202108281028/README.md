@@ -16,3 +16,10 @@
 * nslookup   Name server lookup (DNS)
   
 * ping    pings IP
+  
+* ARP  maps IPs to Mac addresses
+  
+* Tracert Use the traceroute command to discover the path that a packet takes from host to another host
+  
+
+
