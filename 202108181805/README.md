@@ -13,4 +13,10 @@ The osi model is the basis for computer networking as a whole to my understandin
 |6   | Presentation | Data | |
 |7   | Application | Data  | HTTP IMAP SMTP ETC. |
 
+----
+
+## References 
+
+[Encapsulation](https://github.com/Lethalz/LethalZet/tree/main/202109021329)
+
 
