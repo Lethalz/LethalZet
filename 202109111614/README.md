@@ -1,6 +1,6 @@
 # Best foods for meal prepping
 
-I think it's in my best interest to start meal planning, half o fthe reason i'm always eating out is because i dont have a plan for meals during the week. 
+I think it's in my best interest to start meal planning, half of the reason i'm always eating out is because i dont have a plan for meals during the week. 
 
 This will be a good way to organize the food im putting into my body and eating healthier as well.
 
@@ -14,3 +14,8 @@ This will be a good way to organize the food im putting into my body and eating 
 7. Lean protein: frozen or canned seafood, eggs, unsweetened Greek yogurt, skyr, reduced-sodium cottage cheese, shredded cheese, tofu, lean cuts of chicken, turkey, beef, pork
 8. Whole fruits: apples, bananas, oranges, clementines, plums, peaches, pears
 9. Nuts and seeds: almonds, walnuts, peanuts, pumpkin seeds, chia, flax
+
+The apps im using for food prep:
+* **Mealime**
+* **Yummly**
+* **myFitnessPal**
