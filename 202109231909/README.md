@@ -24,6 +24,12 @@ cout << "Type another number: ";
 cin >> y;
 sum = x + y;
 cout << "Sum is: " << sum;
+
+```
+Can be used to input more than one value, one after another:
+
+```cpp
+cin >> height >> width
 ```
 
 ## DATA TYPES
