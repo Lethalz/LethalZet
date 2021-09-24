@@ -2,6 +2,9 @@
 
 `cin` is a predefined variable that reads data from the keyboard with the extraction operator (`>>`).
 
+The name `cin` refers to the standard input stream (pronounced “see-in,” for “char-
+acter input”)
+
 In the following example, the user can input a number, which is stored in the variable x. Then we print the value of x:
 
 Example
@@ -30,6 +33,26 @@ Can be used to input more than one value, one after another:
 
 ```cpp
 cin >> height >> width
+```
+Order is very important the first value entered goes to the first variable.
+
+An *object* is a region of memory with a type that specifies what kind of
+information can be placed in it. A named object is called a *variable*.
+
+A statement that introduces a new name into a program and sets aside memory
+for a variable is called a *definition*
+
+`cin` does that here with `first_name`
+
+```
+int main()
+{
+    cout << "Please enter your first name (followed by 'enter'):\n";
+    
+    string first_name;  // first_name is a variable of type string
+    cin >> first_name;  // read characters into first_name
+   
+   cout << "Hello, " << first_name << "!\n";
 ```
 
 ## DATA TYPES
