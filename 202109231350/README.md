@@ -6,6 +6,9 @@ Theres a difference between being a programmer and a efficient one, being able t
 
 Draw a UI / Diagram to get a better understanding good to get a visual guide.
 
+[Flowchart for Programming explanation](https://www.programiz.com/article/flowchart-programming)
+[draw.io](draw.io)
+
 Internalize the problem, rationalize with yourself, talk about the problem as if your explaining it to someone else.
 
 2. **Divide the problem into smaller problems**
