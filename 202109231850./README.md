@@ -39,6 +39,19 @@ Any text between `//` and the end of the line is ignored by the compiler!
 
 // ALL OF THIS IS IGNOREDD
 
+To block comment /* */ code:
+
+```cpp
+/*
+int main() {
+string firstname;
+cin >> firstname;
+cout << firstname;
+return 0;
+}*/
+
+```
+
 ---
 
 Variables are containers for storing data values.
