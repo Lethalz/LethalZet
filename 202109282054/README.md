@@ -131,5 +131,5 @@ int main() {
   
   
  [Type Conversion Operators](https://github.com/Lethalz/LethalZet/tree/main/202128092136)
- [Prev<<](https://github.com/Lethalz/LethalZet/edit/main/202109252207/README.md)
+ [Prev<<](https://github.com/Lethalz/LethalZet/blob/main/202109252207/README.md)
 
