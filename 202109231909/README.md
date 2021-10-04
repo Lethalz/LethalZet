@@ -172,7 +172,7 @@ cout << greeting;
 [Cout,Identifiers,constants](https://github.com/Lethalz/LethalZet/tree/main/202109231850.)
 
 
-[NEXT>>](https://github.com/Lethalz/LethalZet/commit/7b5c939cdb625a4cd6b610b8eb653be2379d9950)
+[NEXT>>](https://github.com/Lethalz/LethalZet/tree/main/202109252207)
 
 
 
