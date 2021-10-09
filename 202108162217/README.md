@@ -106,6 +106,8 @@ Take the last octet and add the amount of remaining available IPs which does not
 
 The Broadcast Adress is 192.168.0.127
 
+[Subnetting Chart ref](https://github.com/Lethalz/LethalZet/tree/main/202109191854)
+
 
 
 
