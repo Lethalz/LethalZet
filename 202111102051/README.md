@@ -29,6 +29,12 @@ To refuse a gift, or show ingratitude, is unacceptable to a socialized person.
 Cialdini suggests that the reason small favors can command large ones in return is that the feeling of being indebted to another person is "highly disagreeable" - 
 so when we consider the return of a favor we are motivated to escape this unpleasant emotional state, and are not calculating the value of the exchange.
 
+----
+## Reciprocal Concession
+
+The process of negotiation an agreement or exchange, such as making a business deal, can be viewed as an exchange of ritual concessions: each party starts with a price, and then does the other party the favor of incrementing their offer closer to the other person's position in order to give the other incentive to return the favor by making an incremental adjustment closer to theirs.
+
+You see examples of this in shows like pawn stars where they start at a price and make concessions in favor to the sellers needs depending on the value of the actual item being bartered. 
 
 ### How to say No 
 
