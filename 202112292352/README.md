@@ -10,6 +10,7 @@ People need to behave **consistantly** to be considered strong, intelligent and 
 
 When people make a **commitment** such as agreeing to watch someone's items, they are more likely to try to stop the thief then if you leave those same items there *unattended*.
 
+If you can get someone to **commit** to a small initial action, it will be much easier to get them to commit to a larger action.
 
 Personal consistency is highly valued in our culture, and automatic consistency offers us a shortcut through most of life. **Think of it as putting your brain into auto-pilot because this situation has had a positive outcome in the past.**
 
