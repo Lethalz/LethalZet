@@ -54,7 +54,7 @@ Raw Link  Here is URL to \<https://rwx.gg/md> that will appear in full.
 
 Image	\!\[alt text](image.jpg)
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+\!\[Alt text](relative/path/to/img.jpg?raw=true "Title")
 
 Indicates how code should be run   
 
